@@ -6,14 +6,14 @@ This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTree
 
 ## BOM
 
--Rapido HF Hotend (if you'd like a version for another hotend, let me know)
--Sherpa Mini Extruder https://github.com/Annex-Engineering/Sherpa_Mini-Extruder (I plan to make a version for Orbiter/VZ-Hextrudor soon) 
--3010 hot end fan
--CPAP fan, controller, and 15mm ID CPAP hose (see below for more details on CPAP setup)
--Mantis Carriage and magprobe setup https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015
--5x 3mm heat set inserts (not including others needed for the Mantis carriage and Sherpa Mini
--3x 2mm heat set inserts (if you want a version that uses 3mm let me know)
--Various 3mm and 2mm screws
+- Rapido HF Hotend (if you'd like a version for another hotend, let me know)
+- Sherpa Mini Extruder https://github.com/Annex-Engineering/Sherpa_Mini-Extruder (I plan to make a version for Orbiter/VZ-Hextrudor soon) 
+- 3010 hot end fan
+- CPAP fan, controller, and 15mm ID CPAP hose (see below for more details on CPAP setup)
+- Mantis Carriage and magprobe setup https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015
+- 5x 3mm heat set inserts (not including others needed for the Mantis carriage and Sherpa Mini
+- 3x 2mm heat set inserts (if you want a version that uses 3mm let me know)
+- Various 3mm and 2mm screws
 
 ## CPAP Sourcing and Setup
 
