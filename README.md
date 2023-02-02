@@ -1,4 +1,5 @@
-# Crowned-Mantis - a CPAP toolhead for Voron Trident and v2.4
+# Crowned-Mantis
+## A CPAP toolhead for Voron Trident and v2.4
 
 ![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%202.jpg)
 
