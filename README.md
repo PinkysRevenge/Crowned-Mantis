@@ -2,7 +2,11 @@
 
 This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler) that mounts to the X Carriage of the Mantis 5015 Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) to create a light and stiff setup for CPAP on Voron 2.4 and Trident printers.
 
-(Instructions below courtesy of Chirpy, checkout his great CPAP mod for the v0.1 here: https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
+          (Instructions below courtesy of Chirpy, checkout his great CPAP mod for the v0.1 here: https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
+
+CPAP fans not only have a high CFM, they generally also have very high static pressure. This allows air to be delivered to the hotend with greater force than traditional blower fans.
+
+This mod uses the WS7040-24-V200 from Wonsmart which needs to be sourced with a supported driver board. This allows the fan to run at 24v, but the fans PWM is controlled by a 5v data logic controller.
 
 ![ws7040](images/ws7040.jpg)
 ![WS2403DY01V04](images/WS2403DY01V04.jpg)
