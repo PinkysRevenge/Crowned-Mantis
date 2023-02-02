@@ -42,7 +42,7 @@ Credits - this toolhead uses:
 
 6. Screw the hot end to the HE mount
 7. Screw the HE mount to the Mantis carriage
-8. Screw the Sherpa Mini to the HE mount
+8. Screw the Sherpa Mini to the HE mount (with bowden tube inbetween the extruder and HE)
 9. Screw the duct to the HE mount
 
 ![Side_View](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%20Side%202.jpg)
