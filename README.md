@@ -7,13 +7,31 @@ This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTree
 ## BOM
 
 - Rapido HF Hotend (if you'd like a version for another hotend, let me know)
-- Sherpa Mini Extruder https://github.com/Annex-Engineering/Sherpa_Mini-Extruder (I plan to make a version for Orbiter/VZ-Hextrudor soon) 
+- Sherpa Mini Extruder (I plan to make a version for Orbiter/VZ-Hextrudor soon) 
 - 3010 hot end fan
 - CPAP fan, controller, and 15mm ID CPAP hose (see below for more details on CPAP setup)
-- Mantis carriage and magprobe setup https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015
+- Mantis carriage and magprobe setup
 - 5x 3mm heat set inserts (not including others needed for the Mantis carriage and Sherpa Mini
 - 3x 2mm heat set inserts (if you want a version that uses 3mm let me know)
 - Various 3mm and 2mm screws
+
+## Parts to Print
+1. Mantis carriage and magprobe parts according to the github here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015
+2. Sherpa Mini extruder parts according to the gitbhub here: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder
+3. Crowned-Mantis_HE_Mount. Does require supports (touching build plate only), otherwise use standard Voron print specs.
+4. Crowned-Mantis_Duct. Recommend 0.1mm layer height. Supports (touching build plate only) can be helpful for the outlets if your bridging isn't great, but they aren't necessary.
+5. Optional: Crowned-Mantis_Sherpa_Housing_Front replaces the normal Sherpa Mini Housing_Front for added stiffness
+6. Optional: Simon Vez has a great CPAP fan mount and outlet adapter here: https://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main/CAD/CPAP%20turbo%20cooling%20systemhttps://github.com/VzBoT3D/Vz-Printhead-CNC/tree/main/CAD/CPAP%20turbo%20cooling%20system
+
+## Toolhead Assembly
+
+1. Build the Mantis carriage and magprobe according to the github
+2. Build the Sherpa Mini extruder according to the gitbhub
+3. Place heat inserts into the HE mount
+4. Screw the hot end to the HE mount
+5. Screw the HE mount to the Mantis carriage
+6. Screw the Sherpa Mini to the HE mount
+7. Screw the duct to the HE mount
 
 ## CPAP Sourcing and Setup
 
