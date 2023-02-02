@@ -2,9 +2,10 @@
 
 ![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%202.jpg)
 
-This toolhead uses:
+Credits - this toolhead uses:
  - A modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
  - The X Carriage and magprobe of the Mantis Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)
+ - CPAP sourcing and setup instructions by Chirpy (https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
 
 ## BOM
 
@@ -36,8 +37,6 @@ This toolhead uses:
 7. Screw the duct to the HE mount
 
 ## CPAP Sourcing and Setup
-
-(instructions below courtesy of Chirpy, checkout his great v0.1 CPAP mod here: https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
 
 CPAP fans not only have a high CFM, they generally also have very high static pressure. This allows air to be delivered to the hotend with greater force than traditional blower fans.
 
