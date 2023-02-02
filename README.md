@@ -1,7 +1,7 @@
 # Crowned-Mantis
 ## A CPAP toolhead for Voron Trident and v2.4
 
-![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%202.jpg)
+![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/CrownedMantis_Front.jpg)
 
 Credits - this toolhead uses:
  - A modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
@@ -46,6 +46,8 @@ Credits - this toolhead uses:
 8. Screw the Sherpa Mini, HE fan and duct to the HE mount
 
 ![Side_View](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%20Side%202.jpg)
+
+![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%202.jpg)
 
 ## CPAP Sourcing and Setup
 
