@@ -4,7 +4,7 @@
 
 This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler) that mounts to the X Carriage of the Mantis 5015 Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) to create a light and stiff setup for CPAP on Voron 2.4 and Trident printers.
 
-##BOM
+## BOM
 
 -Rapido HF Hotend (if you'd like a version for another hotend, let me know)
 -Sherpa Mini Extruder https://github.com/Annex-Engineering/Sherpa_Mini-Extruder (I plan to make a version for Orbiter/VZ-Hextrudor soon) 
@@ -15,7 +15,7 @@ This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTree
 -3x 2mm heat set inserts (if you want a version that uses 3mm let me know)
 -Various 3mm and 2mm screws
 
-##CPAP Sourcing and Setup
+## CPAP Sourcing and Setup
 
 (instructions below courtesy of Chirpy, checkout his great v0.1 CPAP mod here: https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
 
