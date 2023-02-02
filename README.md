@@ -4,7 +4,7 @@
 ![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/CrownedMantis_Front.jpg)
 
 Credits - this toolhead uses:
- - A modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
+ - A modified duct from the CrownCooler toolhead by SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
  - The X Carriage and magprobe of the Mantis Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)
  - CPAP sourcing and setup instructions by Chirpy (https://github.com/chirpy2605/voron/tree/main/V0/StovePipe)
 
