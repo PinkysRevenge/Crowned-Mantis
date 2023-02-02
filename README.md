@@ -2,7 +2,9 @@
 
 ![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%202.jpg)
 
-This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler) that mounts to the X Carriage of the Mantis 5015 Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) to create a light and stiff setup for CPAP on Voron 2.4 and Trident printers.
+This toolhead uses:
+ - A modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
+ - The X Carriage and magprobe of the Mantis Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)
 
 ## BOM
 
