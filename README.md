@@ -1,4 +1,4 @@
-# Crowned-Mantis  A CPAP toolhead for Voron Trident and v2.4
+# Crowned-Mantis - a CPAP toolhead for Voron Trident and v2.4
 
 This toolhead uses a modified duct from the CrownCooler toolhead from SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler) that mounts to the X Carriage of the Mantis 5015 Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) to create a light and stiff setup for CPAP on Voron 2.4 and Trident printers.
 
