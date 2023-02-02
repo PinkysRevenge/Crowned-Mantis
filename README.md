@@ -31,10 +31,14 @@ Credits - this toolhead uses:
 1. Build the Mantis carriage and magprobe according to the github
 2. Build the Sherpa Mini extruder according to the gitbhub
 3. Place heat inserts into the HE mount
-4. Screw the hot end to the HE mount
-5. Screw the HE mount to the Mantis carriage
-6. Screw the Sherpa Mini to the HE mount
-7. Screw the duct to the HE mount
+![Front_View](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Hotend%20Mount%20Rapido%20Sherpa%20Mini%20Front%202.jpg)
+![Top_View](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Hotend%20Mount%20Rapido%20Sherpa%20Mini%20Top%202.jpg)
+5. Screw the hot end to the HE mount
+7. Screw the HE mount to the Mantis carriage
+8. Screw the Sherpa Mini to the HE mount
+9. Screw the duct to the HE mount
+
+![Side_View](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/Crowned-Mantis%20Side%202.jpg)
 
 ## CPAP Sourcing and Setup
 
