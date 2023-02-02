@@ -8,7 +8,12 @@ CPAP fans not only have a high CFM, they generally also have very high static pr
 
 This mod uses the WS7040-24-V200 from Wonsmart which needs to be sourced with a supported driver board. This allows the fan to run at 24v, but the fans PWM is controlled by a 5v data logic controller.
 
-![ws7040]([images/ws7040.jpg](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/WS2403DY01V04.jpg))
+<img src="images/WS2403DY01V04.jpg" alt="Alt text" title="Optional title">
+
+<img src="[images/WS2403DY01V04.jpg](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/WS2403DY01V04.jpg)" alt="Alt text" title="Optional title">
+
+
+![ws7040](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/WS2403DY01V04.jpg)
 ![WS2403DY01V04](images/WS2403DY01V04.jpg)
 
 It can also be controlled by a 3.3V  data logic controller such as the printers MCU, but you will usually be limited to ~60% of the fans potential. To increase this you can use a logic level converter to translate the 3.3v data signal to 5v.
