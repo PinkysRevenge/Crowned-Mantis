@@ -86,3 +86,6 @@ Connect the 24v connector (blue circle) on the driver board to one of the MOSFET
 Connect the large connector from the fan to the driver board (yellow circle).
 
 Connect your 24v supply (e.g. from the printer PSU) to the Klipper Expander (yellow circle). See the [Klipper Expander](https://github.com/VoronDesign/Voron-Hardware/tree/master/Klipper_Expander/Documentation) documentation on how to connect and configure it to the printer.
+
+Buy me a coffee
+https://www.buymeacoffee.com/PinkysRevenge
