@@ -3,6 +3,10 @@
 
 ![Crowned-Mantis](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/CrownedMantis_Front.jpg)
 
+This project is still in early development. Use at your own risk and please provide feedback. 
+
+Discord: Pinky’s Revenge#0561
+
 Credits - this toolhead uses:
  - A modified duct from the CrownCooler toolhead by SneakyTreeSnake (https://github.com/sneakytreesnake/CrownCooler)
  - The X Carriage and magprobe of the Mantis Toolhead by Long (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)
