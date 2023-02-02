@@ -26,7 +26,7 @@ The simplest way to purchase the WS7040 fan is through [Mellow on Aliexpress](ht
 ## Wiring:
 
 ![WS2403DY01V04](images/WS2403DY01V04.png)
-![Klipper Expander](images/STM32_Klipper_Expander.png)
+![Klipper Expander](https://github.com/PinkysRevenge/Crowned-Mantis/blob/main/Images/STM32_Klipper_Expander.png)
 
 Run a wire from the second from the bottom pin (red circle) on the driver board to the centre neopixel pin (red circle) on the klipper expander.
 
